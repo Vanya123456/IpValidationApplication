@@ -1,0 +1,1 @@
+java -jar jjd1.jar
